@@ -1,8 +1,7 @@
 ✌<br>Hello There!
 
 I'm Sarthak.</br> I'm interested in Front End Development.<br>
-Skills - JavaScript, TypeScript, Angular<br>
-Currently Learning- React<br>
+Skills - JavaScript, TypeScript, React<br>
 I would love to contribute to Open Source Front End Projects.<br>
 I believe the Web Development community is the most helpful community out there.
 
