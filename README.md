@@ -1,6 +1,5 @@
 ✌<br>Hello There!
 
-I'm Sarthak.</br>
 I'm **Sarthak Malik**, a Senior Frontend Engineer at [Simpplr](https://www.simpplr.com), currently working in the **Frontend Architecture** team.
 
 🛠️ I spend most of my time:
